@@ -4,7 +4,8 @@ description: Analyze current support network to identify gaps between mentorship
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.4483
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - mentor-sponsor-gap-analysis
 - transformation
